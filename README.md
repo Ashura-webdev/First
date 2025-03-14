@@ -2,4 +2,4 @@
 
 This is my first project
 <br>
-Author - Amey Zode
+Author - Amey Zode(Individual)
